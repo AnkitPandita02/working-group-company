@@ -5198,10 +5198,10 @@ blockquote.has-text-align-right,
   display: inline-block;
   position: relative;
 }
-/* .main-menu ul li.menu-item-has-children > a:hover:after {
+.main-menu ul li.menu-item-has-children2 > a:hover:after {
   content: "\f068";
 }
-.main-menu ul li.menu-item-has-children > a:after {
+.main-menu ul li.menu-item-has-children2 > a:after {
   content: "+";
   position: relative;
   font-family: var(--icon-font);
@@ -5211,7 +5211,7 @@ blockquote.has-text-align-right,
   font-size: 12px;
   transform: scaleX(1);
   transition: all 0.4s ease-in-out;
-} */
+}
 .main-menu ul li:last-child {
   margin-right: 0 !important;
 }
